@@ -1,9 +1,9 @@
 
 ## Hii! I'm Polina 👋 :sparkles:
 
-[![LinkedIn](https://img.shields.io/badge/whitelisab%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/polinachebanenko/)](https://www.linkedin.com/in/polinachebanenko/)
-[![GitHub](https://img.shields.io/badge/whitelisab%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/apoolinaria)](https://github.com/apoolinaria)
-[![Gmail](https://img.shields.io/badge/whitelisab%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:chebanenkopolina@gmail.com)](mailto:chebanenkopolina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/polinachebanenko%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/polinachebanenko/)](https://www.linkedin.com/in/polinachebanenko/)
+[![GitHub](https://img.shields.io/badge/polinachebanenko%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/apoolinaria)](https://github.com/apoolinaria)
+[![Gmail](https://img.shields.io/badge/polinachebanenko%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:chebanenkopolina@gmail.com)](mailto:chebanenkopolina@gmail.com)
 
 - :round_pushpin: Based in New York, NY
 - :smile: Pronouns: she/her/hers
