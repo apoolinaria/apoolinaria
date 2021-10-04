@@ -1,5 +1,6 @@
 
 ## Hii! I'm Polina 👋 :sparkles:
+I am a conceptual person and love the creation of programming. Software development has peaked my interest as I worked in UX design by granting me the ability to implement designs myself. Fast forward I am now a Software Engineer soaking up all the knowledge and skills in my path. I love using Javascript, Node.js, PostgreSQL, ReactJS, SQL and I've just started diving into Typescript.
 
 [![LinkedIn](https://img.shields.io/badge/polinachebanenko%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/polinachebanenko/)](https://www.linkedin.com/in/polinachebanenko/)
 [![GitHub](https://img.shields.io/badge/polinachebanenko%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/apoolinaria)](https://github.com/apoolinaria)
